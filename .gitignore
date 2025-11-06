@@ -1,0 +1,4 @@
+GCP/pipeline-ecommerce-bq-dbt/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/7.10.0/darwin_arm64/terraform-provider-google_v7.10.0_x5
+GCP/pipeline-ecommerce-bq-dbt/terraform/.terraform.lock.hcl
+GCP/.DS_Store
+.DS_Store
