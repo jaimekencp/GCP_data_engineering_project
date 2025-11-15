@@ -89,13 +89,13 @@ variable "cloud_build_required_roles" {
 variable "gcs_bucket_location" {
   description = "The location (region) for the GCS bucket."
   type        = string
-  default     = "us-central1"
+  default     = "europe-west4"
 }
 
 variable "gcs_bucket_name_prefix" {
   description = "Prefix for the GCS bucket name. Project ID will be appended for uniqueness."
   type        = string
-  default     = "ecommerce_data_staging"
+  default     = "ecommerce_data_staging_bucket"
 }
 
 variable "local_data_path" {
